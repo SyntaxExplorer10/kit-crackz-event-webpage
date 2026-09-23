@@ -53,4 +53,4 @@ This project helped me practice:
 
 ## 👩‍💻 Author
 
-Catty
+Kiruthisha
